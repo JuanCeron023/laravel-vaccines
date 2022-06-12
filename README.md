@@ -9,7 +9,7 @@
 
 ## About project
 
-Project with laravel
+Vaccination project with laravel
 
 ## Learning Laravel
 
